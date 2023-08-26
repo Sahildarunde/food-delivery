@@ -1,0 +1,229 @@
+.d{
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 28px;
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /*100% */
+    letter-spacing: -0.28px;
+    margin-left: 6px;
+}
+.fdelivery{
+    color: var(--food-delivery-orange-color, #F94A3D);
+    font-family: Poppins;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; /* 93.333% */
+    letter-spacing: -0.3px;
+}
+.dot{
+    position: relative;
+    margin-right: 9px;
+}
+.logo{
+    display: flex;
+    margin-top: 39px;
+}
+.navbar{
+    display: flex;
+}
+a{
+    color: var(--food-delivery-pg, #212244);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+    margin-right: 27px;
+}
+.mid{
+    content:20px;
+    margin: 20px;
+    padding-left: 300px;
+    padding-right: 70px;
+    margin-top: 39px;
+    justify-content: center;
+}
+.search{
+    margin-top: 39px;
+    fill: #FFF;
+    stroke-width: 1px;
+    stroke: rgba(105, 105, 123, 0.10);
+    filter: drop-shadow(0px 6px 30px rgba(0, 0, 0, 0.04));
+    max-width: 31.25rem;
+    display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+input{
+    width: 180px;
+    height: 40px;
+    flex-shrink: 0;
+    color: var(--food-text-color-2, #69697B);
+    font-family: Poppins;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    float: left;
+    display: block;
+    text-align: center;
+}
+#searchQueryInput {
+    background: #f5f5f5;
+    outline: none;
+    border: none;
+    border-radius: 1.625rem;
+  }
+  
+  #searchQuerySubmit {
+    background: none;
+    border: none;
+    outline: none;
+  }
+  
+  #searchQuerySubmit:hover {
+    cursor: pointer;
+  }
+  .cart-icon{
+    margin-top: 52px;
+    size: 100px;
+    padding-left: 20px;
+}
+.eclipse{
+    width: 16.304px;
+height: 18.478px;
+flex-shrink: 0;
+}
+.sign-in-section{
+    position: relative;
+  text-align: center;
+}
+.sign-in{
+    margin-top: 45px;
+    margin-left: 35px;
+    position: absolute;
+}
+.text{
+    color: var(--food-delivery-white-color, #FFF);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.16px;
+    margin-top:50px;
+    content: normal;
+    margin-left: 60px;
+    position: absolute;
+    text-align: center;
+    width: 52px;
+    justify-content: center;
+}
+.first-p{
+    margin-top: 150px;
+    margin-left: 100px;
+    width: 229px;
+    height: 46px;
+    flex-shrink: 0;
+    position: relative;
+    display: flex;
+}
+.bg{
+    position: relative;
+}
+.fill{
+    position: absolute;
+}
+.more{
+    position: absolute;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+.fill1{
+    position: absolute;
+    padding-left: 180px;
+}
+.grp{
+    position: absolute;
+    padding-left: 182px;
+}
+.get{
+    padding-top: 70px;
+}
+.food-desc{
+    padding-top: 20px;
+}
+.rect{
+    padding-top: 15px;
+    width: 174px;
+    height: 60px;
+    flex-shrink: 0;
+    position: relative;
+}
+.rectangle{
+    position: absolute;
+    
+}
+.explore{
+    position: absolute;
+    color: var(--food-delivery-white-grey, #F6F6F6);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: -0.18px;
+    padding-left: 5px;
+    padding-top: 6px;
+}
+
+.frame1{
+    margin-top: -80px;
+    width: 800px;
+}
+.second-p{
+    margin-top: 800px;
+}
+.second-pic{
+    padding-left: 200px;
+    width: 1200px;
+}
+.third-p{
+    margin-top: 50px;
+}
+.third-pic{
+    padding-left: 200px;
+    width: 1200px;
+}
+
+.fourth-p{
+    margin-top: 50px;
+}
+.fourth-pic{
+    width: 1600px;
+}
+.fifth-p{
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.fifth-pic{
+    padding-left: 50px;
+    width: 1400px;
+    justify-content: center;
+    align-items: center;
+
+}
+.footer{
+    margin-top: 50px;
+}
+.footer-pic{
+    padding-left: 130px;
+    padding-bottom: 100px;
+    width: 1300px;
+
+}
